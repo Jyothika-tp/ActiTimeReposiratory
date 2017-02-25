@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26137" started-at="2017-02-25T11:03:13Z" finished-at="2017-02-25T11:03:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26137" started-at="2017-02-25T11:03:13Z" finished-at="2017-02-25T11:03:39Z">
+      <class name="acti_maven.B">
+        <test-method status="PASS" signature="testActiLoginLogout()[pri:0, instance:acti_maven.B@735b5592]" name="testActiLoginLogout" duration-ms="15323" started-at="2017-02-25T16:33:13Z" finished-at="2017-02-25T16:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiLoginLogout -->
+      </class> <!-- acti_maven.B -->
+      <class name="acti_maven.ActiLogin">
+        <test-method status="PASS" signature="testActiLoginLogout()[pri:0, instance:acti_maven.ActiLogin@5419f379]" name="testActiLoginLogout" duration-ms="10788" started-at="2017-02-25T16:33:28Z" finished-at="2017-02-25T16:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiLoginLogout -->
+      </class> <!-- acti_maven.ActiLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
