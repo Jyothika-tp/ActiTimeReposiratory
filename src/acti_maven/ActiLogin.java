@@ -21,6 +21,7 @@ public class ActiLogin
 		driver.findElement(By.id("loginButton")).click();
 		driver.findElement(By.id("logoutLink")).click();
 		driver.quit();
+		System.out.println("hiijipo");
 	}
 
 }
